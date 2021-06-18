@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&locale=en&layout=compact" alt="oavelar42" width="380" height="380"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="280" height="280" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="320" height="320" /></p>
 
 
-<p align="down"> <img src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </p>
+<footer> <img src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </footer>
