@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences , I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.
 
+<p><img align="left" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/otavio-avelar-araujo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/otavio-avelar-araujo/" height="30" width="40" /></a>
@@ -23,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&locale=en&layout=compact" alt="oavelar42" width="380" height="380"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="380" height="380" /></p>
-
-
-<p><img align="left" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42"/></p>
