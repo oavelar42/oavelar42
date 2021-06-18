@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
 <h3 align="center">I'm a software engineering student at 42Lisboa</h3>
 
-<h5- 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**</h5>
+<h5>- 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**</h5>
 
 - 🌱 I’m currently learning **programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
 
