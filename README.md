@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
-<h3 align="center" <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&locale=en&layout=compact" alt="oavelar42" width="300" height="300"/></p> >I'm a software engineering student at 42Lisboa</h3>
+<h3 align="center" <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&locale=en&layout=compact" alt="oavelar42" width="310" height="310"/></p> >I'm a software engineering student at 42Lisboa</h3>
 
 - 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
 
@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="400" height="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="400" height="400" /></p>
