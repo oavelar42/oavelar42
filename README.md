@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
 <h3 align="center">I'm a software engineering student at 42Lisboa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </p>
+
 
 - 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
 
@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oavelar42&" alt="oavelar42" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </p>
