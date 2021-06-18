@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
 <h3 align="center">I'm a software engineering student at 42Lisboa</h3>
 
-- 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
+- 👀 <h4>I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**</h4>
 
 - 🌱 I’m currently learning **programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **I dont know maybe by social networks, subway, airplane, horse, camel and other options, you can choose.... - See you around the world ... aaah my projects are still private(some public), but in the future i will be making them available.**
 
-- 📄 Know about my experiences [I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.](I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.)
+- 📄 Know about my experiences , I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
