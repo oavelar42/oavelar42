@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="320" height="320" /></p>
 
 
-<p> <img align="absolute" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42" /> </p>
