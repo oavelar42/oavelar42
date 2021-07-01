@@ -25,7 +25,7 @@
 <p><img align="left" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42"/></p>
 
 <p align="right">
-<a href = "https://github.com/oavelar42">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=oavelar42&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
+  <a href = "https://github.com/oavelar42">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=oavelar42show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
