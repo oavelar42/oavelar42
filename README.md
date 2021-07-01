@@ -26,6 +26,6 @@
 
 <p align="center">
 <a href = "https://github.com/oavelar42">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=oavelar42&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=oavelar42&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=de2626_color=151515&card_width=400">
 </a>
 </p>
