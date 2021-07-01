@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
 <h3 align="center" <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&locale=en&layout=compact" alt="oavelar42" width="310" height="310 color : dark"/></p> I'm a software engineering student at 42Lisboa</h3>
-
+<em>
 - 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
 
 - 🌱 I’m currently learning **programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences , I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.
 
+</em>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/otavio-avelar-araujo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/otavio-avelar-araujo/" height="30" width="40" /></a>
@@ -22,4 +24,8 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=oavelar42&label=Profile%20views&color=0e75b6&style=flat" alt="oavelar42"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oavelar42&show_icons=true&locale=en" alt="oavelar42" width="400" height="400" /></p>
+<p align="center">
+<a href = "https://github.com/oavelar42">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=oavelar42&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
