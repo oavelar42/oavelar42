@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Otávio Avelar</h1>
 <h3 align="center" <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="oavelar42" width="310" height="310"/></p> I'm a software engineering student at 42Lisboa</h3>
-<em>
-- 👀 I’m interested in **to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
+<em> 
+  
+- 👀 **I’m interested in to always learn new things and be happy. I want to learn more about Cyber security, and you are always welcome to talk to me about it.**
 
-- 🌱 I’m currently learning **programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
+- 🌱 **I’m currently learning programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
 
-- 🔭 I’m looking to collaborate on **to collaborate on a better world, knowing that the future will be all computerized and controlled by cryptocurrencies :-P ...**
+- 🔭 **I’m looking to collaborate on to collaborate on a better world, knowing that the future will be all computerized and controlled by cryptocurrencies :-P ...**
 
-- 📫 How to reach me **I dont know maybe by social networks, subway, airplane, horse, camel and other options, you can choose.... - See you around the world ... aaah my projects are still private(some public), but in the future i will be making them available.**
+- 📫 **How to reach me I dont know maybe by social networks, subway, airplane, horse, camel and other options, you can choose.... - See you around the world ... aaah my projects are still private(some public), but in the future i will be making them available.**
 
-- 📄 Know about my experiences , I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.
+- 📄 **Know about my experiences , I started to like computers at a young age, but I started in the programming area 2 years ago, but with the spirit of learning everything that is needed to follow in the area that I like and will work in the future.**
 
 </em>
   
