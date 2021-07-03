@@ -29,7 +29,7 @@
 
 </td><td valign="top" width="50%">
 
-<img align="left" alt="cyber" height=175 width=445 src="https://media.tenor.com/images/ce401c8103f6576384e0c3a220ce23a4/tenor.gif" />
+<img align="left" alt="cyber" height=179 width=449 src="https://media.tenor.com/images/ce401c8103f6576384e0c3a220ce23a4/tenor.gif" />
 
 </td></tr></table>
 
