@@ -6,7 +6,7 @@
 
 - 🌱 **I’m currently learning programming at 42Lisboa and still studying about economy, but the focus is to learn about security, in general to learn enough about programming...**
 
-- 🔭 **I’m looking to collaborate on to collaborate on a better world, knowing that the future will be all computerized and controlled by cryptocurrencies and NFT ->  https://opensea.io/account :-P ...**
+- 🔭 **I’m looking to collaborate on to collaborate on a better world, knowing that the future will be all computerized and controlled by cryptocurrencies :-P ...**
 
 - 📫 **How to reach me I dont know maybe by social networks, subway, airplane, horse, camel and other options, you can choose.... - See you around the world ... aaah my projects are still private(some public), but in the future i will be making them available.**
 
